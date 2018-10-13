@@ -1,0 +1,8 @@
+main: com.free.testplugin.Main
+name: ItemGUI
+description: The finest plugin available!
+version: 1.0
+commands:
+  menu:
+
+
